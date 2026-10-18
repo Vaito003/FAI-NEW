@@ -1,0 +1,6 @@
+{
+  "name": "PATHFINDER AI — Intelligent Route Planning & Algorithm Visualizer",
+  "description": "Interactive AI route planning and graph algorithm visualizer exploring BFS, DFS, Dijkstra, and A* heuristic search with real execution metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
